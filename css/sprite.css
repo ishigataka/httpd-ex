@@ -5,31 +5,31 @@ Icon classes can be used entirely standalone. They are named after their origina
 ```
 */
 .icon-aion {
-  background-image: url(https://httpd-sprite-tks-project.10.126.249.101.nip.io/img/sprite.png);
+  background-image: url(https://httpd-sprite-iks-project.10.128.171.118.nip.io/img/sprite.png);
   background-position: 0px -50px;
   width: 49px;
   height: 50px;
 }
 .icon-gitbook {
-  background-image: url(https://httpd-sprite-tks-project.10.126.249.101.nip.io/img/sprite.png);
+  background-image: url(https://httpd-sprite-iks-project.10.128.171.118.nip.io/img/sprite.png);
   background-position: 0px 0px;
   width: 50px;
   height: 50px;
 }
 .icon-gitbucket {
-  background-image: url(https://httpd-sprite-tks-project.10.126.249.101.nip.io/img/sprite.png);
+  background-image: url(https://httpd-sprite-iks-project.10.128.171.118.nip.io/img/sprite.png);
   background-position: -49px -50px;
   width: 48px;
   height: 50px;
 }
 .icon-tgfw_tmp {
-  background-image: url(https://httpd-sprite-tks-project.10.126.249.101.nip.io/img/sprite.png);
+  background-image: url(https://httpd-sprite-iks-project.10.128.171.118.nip.io/img/sprite.png);
   background-position: -100px 0px;
   width: 50px;
   height: 42px;
 }
 .icon-verdaccio {
-  background-image: url(https://httpd-sprite-tks-project.10.126.249.101.nip.io/img/sprite.png);
+  background-image: url(https://httpd-sprite-iks-project.10.128.171.118.nip.io/img/sprite.png);
   background-position: -50px 0px;
   width: 50px;
   height: 50px;
